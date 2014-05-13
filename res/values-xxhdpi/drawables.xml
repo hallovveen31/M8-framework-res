@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="apm_airplane_mode_off">false</item>
+    <item type="drawable" name="apm_airplane_mode_on">false</item>
+    <item type="drawable" name="apm_bootloader">false</item>
+    <item type="drawable" name="apm_data_off">false</item>
+    <item type="drawable" name="apm_data_on">false</item>
+    <item type="drawable" name="apm_hotreboot">false</item>
+    <item type="drawable" name="apm_kid_mode">false</item>
+    <item type="drawable" name="apm_normal_mode_off">false</item>
+    <item type="drawable" name="apm_normal_mode_on">false</item>
+    <item type="drawable" name="apm_power_off">false</item>
+    <item type="drawable" name="apm_recovery">false</item>
+    <item type="drawable" name="apm_restart">false</item>
+    <item type="drawable" name="apm_safemode">false</item>
+    <item type="drawable" name="apm_screenrecord_icon">false</item>
+    <item type="drawable" name="apm_screenshot_icon">false</item>
+    <item type="drawable" name="apm_silent_mode_off">false</item>
+    <item type="drawable" name="apm_silent_mode_on">false</item>
+    <item type="drawable" name="apm_vibrate_mode_off">false</item>
+    <item type="drawable" name="apm_vibrate_mode_on">false</item>
+    <item type="drawable" name="old_toast_frame">false</item>
+    <item type="drawable" name="old_toast_frame_holo">false</item>
+    <item type="drawable" name="venom_sound_dolby">false</item>
+    <item type="drawable" name="venom_sound_eq">false</item>
+    <item type="drawable" name="venom_sound_movie">false</item>
+    <item type="drawable" name="venom_sound_srs">false</item>
+    <item type="drawable" name="venom_sound_voice">false</item>
+</resources>
